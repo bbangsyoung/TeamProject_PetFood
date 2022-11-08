@@ -1,6 +1,7 @@
 # 개밥멍선생 🐕 JSP TEAM PROJECT <img src="https://img.shields.io/badge/JSP-EF2D5E?style=flat-square&logo=Java&logoColor=white">
 
 사이트 바로가기(AWS) : http://43.200.119.189:8080/PetFood <br>
+
  `#JSP`와 `#MariaDB`를 이용하여 만든 **반려동물 레시피 공유 웹사이트**  
 <br>
 
