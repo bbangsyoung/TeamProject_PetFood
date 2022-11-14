@@ -1,7 +1,7 @@
 # 개밥멍선생 🐕 JSP TEAM PROJECT <img src="https://img.shields.io/badge/JSP-EF2D5E?style=flat-square&logo=Java&logoColor=white">
 
 사이트 바로가기 : http://43.200.119.189:8090/PetFood/ <br>
-AWS 프리티어 계정으로, 접속 시 다소 느린 점 양해부탁드립니다. <br>
+AWS 프리티어 계정으로, 최초 접속 시 다소 느린 점 양해부탁드립니다. <br>
 
 ```
 UPDATE List
